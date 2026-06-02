@@ -190,7 +190,7 @@ shivamthakur9632@gmail.com
 
 ### 💼 LinkedIn
 
-[Add your LinkedIn profile link here](https://www.linkedin.com/in/developer-shiv/)
+https://www.linkedin.com/in/developer-shiv/
 
 ### 🐦 X (Twitter)
 
