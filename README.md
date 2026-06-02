@@ -1,210 +1,298 @@
-<div align="center">
+<p align="center">
+  <img src="https://chatgpt.com/s/m_6a1ebb8a18f481918856a74240700cc7" width="100%" alt="Shivam Thakur | Ultronix Academy Banner" />
+</p>
 
-# 👋 Hey, I'm Shivam Thakur
+<h1 align="center">Hi, I'm Shivam Thakur 👋</h1>
 
-### 🚀 Founder & CEO of Ultronix Academy
+<h3 align="center">
+🚀 Founder & CEO of Ultronix Academy | Frontend Developer | Product Builder
+</h3>
 
-Building the future of developer education through practical learning, real-world projects, and industry-focused training.
+<p align="center">
+Building the future of developer education through real-world projects, practical skills, and industry-focused learning.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Founder+of+Ultronix+Academy;Frontend+Developer;React+%7C+JavaScript+%7C+MERN;Building+in+Public;Learn+%E2%80%A2+Build+%E2%80%A2+Launch" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Founder+%26+CEO+of+Ultronix+Academy;Frontend+Developer;React+%7C+JavaScript+%7C+MERN;Building+in+Public;Learn+%E2%80%A2+Build+%E2%80%A2+Launch" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam8449&label=Profile+Views&color=00D9FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/developer-shiv/">
+    <img src="https://img.shields.io/badge/LinkedIn-Developer%20Shiv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/coderxshivam">
+    <img src="https://img.shields.io/badge/X-coderxshivam-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:shivamthakur9632@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shivamthakur9632%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm passionate about building products that solve real-world problems and help aspiring developers become industry-ready.
+I'm **Shivam Thakur**, a frontend developer and founder of **Ultronix Academy**.
 
-Currently focused on:
+I’m building products, learning in public, and creating a practical education platform where aspiring developers can learn through real-world projects instead of only theory.
 
-- 🎓 Building **Ultronix Academy**
-- 💻 Developing modern React applications
-- 🚀 Building full-stack MERN projects
+- 🎓 Founder & CEO of **Ultronix Academy**
+- 💻 Frontend Developer focused on **React.js**
+- 🌐 Building full-stack MERN applications
 - 🤖 Exploring AI-powered products
-- 🌱 Learning scalable software architecture
-- 📈 Growing a startup in public
-
----
-
-# 🎯 Mission
-
-> Empower aspiring developers with practical skills, real-world projects, and career-focused learning.
-
-### Ultronix Academy
-
-Learn through building.
-
-No outdated theory.
-
-No endless tutorials.
-
-Just practical, industry-ready skills.
-
-**Learn • Build • Launch**
-
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-## 🎬 MovieFlix
-
-Modern movie discovery platform built using React and API integration.
-
-### Features
-
-- Search movies
-- View movie details
-- Responsive UI
-- API Integration
-- Modern React Architecture
-
----
-
-## 🏥 Doctor Appointment Booking System
-
-Advanced appointment scheduling application.
-
-### Features
-
-- Book appointments
-- Calendar integration
-- Appointment management
-- Responsive dashboard
-
----
-
-## 👨‍💼 Candidate Referral Management System
-
-Full-stack MERN application for referral management.
-
-### Features
-
-- Candidate tracking
-- Referral workflow
-- Status management
-- Dashboard analytics
+- 📚 Creating project-based learning experiences
+- 🚀 Building in public
 
 ---
 
 ## 🎓 Ultronix Academy
 
-Next-generation education platform focused on practical learning.
+> **Bridging the gap between education and industry.**
 
-### Features
+Ultronix Academy is an EdTech startup focused on helping aspiring developers become industry-ready through:
 
-- Course management
-- Webinar registration
-- Student dashboard
-- Real-world project learning
+- ✅ Practical learning
+- ✅ Real-world projects
+- ✅ Career-focused training
+- ✅ Modern tech skills
+- ✅ Developer community
+- ✅ Build-in-public mindset
+
+<h3 align="center">Learn • Build • Launch</h3>
 
 ---
 
-# 📈 Current Focus
+## 🔥 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Startup
+
+- Building Ultronix Academy
+- Growing developer community
+- Creating project-based courses
+- Sharing startup journey publicly
+- Building a strong founder brand
+
+</td>
+
+<td width="50%">
+
+### 💻 Engineering
+
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- AI-powered tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎬 MovieFlix
+
+A modern movie discovery platform built with React and API integration.
+
+**Features**
+
+- Movie search
+- Movie details page
+- Responsive UI
+- API integration
+- Clean React architecture
+
+**Tech Stack:** React.js, JavaScript, CSS, API
+
+---
+
+### 🏥 Doctor Appointment Booking System
+
+A modern appointment scheduling application with calendar-based booking.
+
+**Features**
+
+- Doctor listing
+- Appointment booking
+- Calendar view
+- Appointment management
+- Responsive dashboard
+
+**Tech Stack:** React.js, JavaScript, CSS
+
+---
+
+### 👨‍💼 Candidate Referral Management System
+
+A full-stack MERN application for managing candidate referrals.
+
+**Features**
+
+- Candidate listing
+- Referral form
+- Status tracking
+- Backend API integration
+- Dashboard UI
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+---
+
+### 🎓 Ultronix Academy
+
+An EdTech platform focused on practical developer education.
+
+**Features**
+
+- Course sections
+- Webinar registration
+- Admin-managed countdown timer
+- Google Sheet registration storage
+- Premium startup UI
+
+**Tech Stack:** React.js, JavaScript, Tailwind CSS
+
+---
+
+## 📈 My Developer Identity
 
 ```javascript
 const shivam = {
+  name: "Shivam Thakur",
   role: "Founder & CEO",
   company: "Ultronix Academy",
-  skills: ["React", "JavaScript", "Node.js", "MongoDB"],
-  currentFocus: [
-    "Building Ultronix Academy",
-    "Full Stack Development",
-    "AI Products",
-    "Startup Growth"
-  ],
-  motto: "Learn • Build • Launch"
-}
+  focus: "Developer Education",
+  skills: ["React", "JavaScript", "Node.js", "Express.js", "MongoDB"],
+  mission: "Helping aspiring developers become industry-ready",
+  motto: "Learn • Build • Launch",
+};
 ```
 
 ---
 
-# 📊 GitHub Analytics
+## 🏆 GitHub Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam8449&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam8449&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8449&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam8449&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-# 🏆 Goals For 2026
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivam8449&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam8449&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8449&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam8449&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Goals For 2026
 
 - 🚀 Scale Ultronix Academy
-- 🎓 Help developers become industry-ready
-- 🌟 Build impactful products
-- 💻 Master full-stack development
-- 🤖 Build AI-powered solutions
-- 📈 Grow a strong developer community
+- 🎓 Help aspiring developers become industry-ready
+- 🌟 Build impactful real-world products
+- 💻 Become stronger in full-stack development
+- 🤖 Launch AI-powered learning tools
+- 🌍 Grow a powerful developer community
+- 📈 Build a strong founder-engineer brand
 
 ---
 
-# 🤝 Connect With Me
+## 🌍 Vision
 
-### 📧 Email
+I believe education should be practical, project-based, and aligned with real industry requirements.
 
-shivamthakur9632@gmail.com
+Through **Ultronix Academy**, my goal is to help developers learn by building real products, solving real problems, and gaining skills that matter in the industry.
 
-### 💼 LinkedIn
+---
 
-https://www.linkedin.com/in/developer-shiv/
+## 💭 Founder Mindset
 
-### 🐦 X (Twitter)
+> Don’t just learn technology.  
+> Build with it.  
+>
+> Don’t just consume content.  
+> Create value.  
+>
+> Don’t just follow opportunities.  
+> Build them.  
+>
+> — Shivam Thakur
 
-https://x.com/coderxshivam
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/developer-shiv/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/coderxshivam">
+    <img src="https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="mailto:shivamthakur9632@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
 
-### 🚀 Building In Public
-
-### 🎓 Ultronix Academy
+# 🚀 ULTRONIX ACADEMY
 
 ### Learn • Build • Launch
 
-⭐ If you like my work, consider following me.
+Building in Public | Practical Learning | Real-World Projects
+
+⭐ Follow my journey as I build products, share lessons, and grow Ultronix Academy.
 
 </div>
